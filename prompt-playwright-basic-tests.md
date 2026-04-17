@@ -1,0 +1,2 @@
+Generate Playwright test cases only. do not execute, do not run plan mode
+
